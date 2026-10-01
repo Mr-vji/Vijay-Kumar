@@ -1,72 +1,43 @@
-# Hey, I'm vijay 👋
+# Hey, I'm Vijay 👋
 
-### Creative Frontend Developer building modern web experiences with React, Next.js & 3D.
+### Creative Frontend Developer specializing in **Next.js, React Three Fiber & Three.js**.
 
-I enjoy turning ideas and designs into interactive, performant and
-visually engaging web experiences.
+I build **modern, interactive web experiences** combining clean UI, smooth animation, performance, and immersive 3D.
 
 ---
 
 ## 🚀 What I Build
 
-- Modern websites with Next.js & React
-- Interactive 3D web experiences
-- Responsive UI/UX
-- Creative landing pages
-- AI-powered web experiences
-- Performance-focused frontend applications
+* **Business & corporate websites**
+* **High-converting landing pages**
+* **Interactive & animated web experiences**
+* **3D websites & product experiences**
+* **Performance-focused web applications**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-React • Next.js • JavaScript • HTML • CSS • Tailwind CSS
+**Frontend:** Next.js • JavaScript • Tailwind CSS
 
-### 3D & Creative Development
-Three.js • React Three Fiber • @react-three/drei
+**Animation:** GSAP • Framer Motion
 
-### Tools
-Git • GitHub • Figma • VS Code
+**3D:** Three.js • React Three Fiber • Drei
 
-### Currently Exploring
-WebGL • Advanced 3D interactions • Motion design • AI integrations
+**Tools:** Git • GitHub • Figma
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Selected Work
 
-### Vaidya 247
-Healthcare job platform connecting doctors and healthcare professionals
-with relevant opportunities.
+**Vaidya 247** — Healthcare job platform
+`Next.js`
 
-**Tech:** Next.js • React • JavaScript • UI/UX
-
-### 3D Web Experience
-Interactive 3D website experience built with React Three Fiber and Three.js.
-
-**Tech:** Next.js • React Three Fiber • Three.js • Postprocessing
-
-### Restaurant AI Chatbot
-Interactive restaurant assistant for discovering information,
-timings and table-booking experiences.
-
-**Tech:** Next.js • React • AI • UI/UX
+**3D Web Experience** — Interactive 3D website
+`Next.js • React Three Fiber • Three.js • GSAP`
 
 ---
 
-## 📈 What I'm Focused On
+## 🤝 Let's Work Together
 
-Building better frontend experiences by combining:
-
-**Code + Design + Interaction + Performance**
-
----
-
-## 🤝 Let's Connect
-
-[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL)
-
----
-
-⭐ If you find something useful here, feel free to explore my repositories.
+[LinkedIn](https://www.linkedin.com/in/vijay-frontend-dev) • [Portfolio](YOUR_PORTFOLIO_URL)
