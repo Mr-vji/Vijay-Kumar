@@ -1,4 +1,4 @@
-# Hey, I'm Vji 👋
+# Hey, I'm vijay 👋
 
 ### Creative Frontend Developer building modern web experiences with React, Next.js & 3D.
 
